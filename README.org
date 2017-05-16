@@ -1,0 +1,192 @@
+* Evolution /vs/ Intelligent design
+Trying too hard to control an outcome can make one blind to a potentially rich
+set of possibilities that were not predicted. Optimism, pessimism, betting,
+don't have objective value until they are contrasted with experience. *But*, if
+constant movement and moving fast means giving up on understanding then there is
+no point of reference. Any direction has the same weight, the same cost and
+value. There is a good chance of going around in circles, perceiving superficial
+variations as progress. Measuring without understanding is not a solution since
+there is no way to tell whether the variations are fundamental or just different
+units.
+
+[[https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus][The myth of Sisyphus]].
+Funny contrast: [[http://www.online-literature.com/chesterton/alarms-and-discursions/16/][The Futurists]] by G. K. Chesterton.
+
+
+* A common process
+Impression → Thought → Expression.
+- As verbs :: Read → Eval → Print.
+- As nouns :: Controller → Model → View.
+
+- Abstraction and loss of detail | Funes el memorioso
+- Verb subject and object | internal representations and translation
+  - Shared state
+  - Globals, classes and functions | read/write parameters
+
+
+* Technical debt and comprehensional debt
+- Technical debt :: Extra work that arises when favoring ease of implementation
+                    in the short run instead of applying the best overall
+                    solution.  If not repaid, it can accumulate /interest/,
+                    making it harder to implement changes later.
+
+- Comprehensional debt :: Extra organizational complexity that arises when
+     favoring complicated implementations in the short run instead of applying
+     the simplest overall solution.  If not repaid, it can generate bureaucracy,
+     making it harder to coordinate changes later.
+
+
+* Locke on ideas
+[[Http://www.anselm.edu/homepage/dbanach/13-LOCKE-ideas.htm][Original]]
+
+Ideas are the objects of thought and understanding. Whenever we think, perceive,
+or contemplate, we think about ideas.
+
+All ideas come from Experience. Hence, all the materials of reason and knowledge
+arise from experience. None are innate.
+
+
+Experience may be of two different origins:
+
+1. /Sensation/: These are ideas of external sensible objects conveyed to us by
+   the senses: yellow, white, hot, cold.
+
+2. /Reflection/: These are perceptions of the internal operations of our minds:
+   thinking, doubting, willing.
+
+
+Ideas from these sources may also be of two basic types:
+
+1. /Simple Ideas/: Of one uniform appearance or conception in the mind; cannot
+   be created or destroyed.
+
+2. /Complex ideas/: Constructed by us in various ways using other simple ideas.
+
+
+** Simple ideas
+These can be of four basic types:
+
+1. /Ideas from one sense/: Light, noise, taste, smell, heat, solidity,
+   texture. (secondary properties)
+
+2. /Ideas from more than one sense/: space, extension, figure, rest,
+   motion. (primary properties)
+
+3. /Ideas from reflection only/: perception, willing.
+
+4. /Ideas from both sense and reflection/: pleasure and pain, power, existence,
+   unity.
+
+
+** Complex Ideas
+These are constructed by us using three different methods:
+
+1. /Combination/ — putting various ideas together into one complex idea: a
+   unicorn constructed from the ideas of horn and horse.
+
+2. /Relation/ — seeing the relation between ideas: equality.
+
+3. /Abstraction/ — separating one property from many particular ideas: all
+   general, abstract ideas.
+
+
+Complex ideas can also be of three different types of objects:
+
+1. /Modes/: these don't contain the supposition of independent subsistence.
+   1. /Simple/ — combine same type of ideas: number (12).
+   2. /Mixed/ — combine different types of ideas: beauty combines color and
+      form.
+
+2. /Substances/ — These represent distinct particular things.
+   1. /Single/ — An individual taken to exist by itself: a man.
+   2. /Collective/ — a group consisting of other individuals: an army or flock
+      of sheep.
+
+3. /Relations/ — These are relationships between other ideas, substances, or
+   modes.
+
+
+* Syntagm and Paradigm
+[[http://changingminds.org/explanations/critical_theory/concepts/syntagm_paradigm.htm][Original
+]]
+Syntagm and paradigm govern how signs relate to one another.
+
+** Syntagm
+
+A syntagmatic relationship is one where signs occur in sequence or parallel and
+operate together to create meaning.
+
+The sequential nature of language means that linguistic signs have syntagmatic
+relationships.
+
+Thus, for example, the letters in a word have syntagmatic relationship with one
+another, as do the words in a sentence or the objects in a picture.
+
+Syntagmatic relationships are often governed by strict rules, such as spelling
+and grammar. They can also have less clear relationships, such as those of
+fashion and social meaning.
+
+** Paradigm
+
+A paradigmatic relationship is one where an individual sign may be replaced by
+another.
+
+Thus, for example, individual letters have a paradigmatic relationship with
+other letters, as where one letter is used, another may replace it (albeit
+changing meaning). Letters and numbers do not have a paradigmatic relationship.
+
+Items on a menu have paradigmatic relationship when they are in the same group
+(starters, main course, sweet) as a choice is made. Courses have a sequential
+(syntagmatic) relationship, and thus an item from the starter menu does not have
+a paradigmatic relationship with the sweet menu.
+
+Paradigmatic relationships are typically associative, in that both items are in
+a single membership set.
+
+** Discussion
+
+An individual sign (a unit) has no separate meaning, and only delivers /value/
+in relation to other units in related sets. Thus a poodle dog has meaning only
+in relation to other types of dog.
+
+
+* Etymology of idiot
+Its modern meaning and form dates back to Middle English.  The related word
+idiocy dates to 1487 and may have been analogously modeled on the words prophet
+and prophecy.
+
+- Old French, idiote :: “uneducated or ignorant person”.
+- Late Latin, idiota :: “uneducated or ignorant person”.
+- Latin, idiota :: “ordinary person, layman”.
+- Greek, idiōtēs :: “person lacking professional skill”, “a private citizen”,
+                   “individual”.
+- Greek, idios :: “private”, “one's own”.
+
+An idiot in Athenian democracy was someone who was characterized by
+self-centeredness and concerned almost exclusively with private—as opposed to
+public—affairs.
+
+Idiocy was the natural state of ignorance into which all persons were born and
+its opposite, citizenship, was effected through formalized education.
+
+In Athenian democracy, idiots were born and citizens were made through education
+(although citizenship was also largely hereditary).
+
+“Idiot” originally referred to “layman, person lacking professional skill”,
+“person so mentally deficient as to be incapable of ordinary reasoning”.
+
+Declining to take part in public life, such as democratic government of the
+polis (city state), was considered dishonorable.
+
+“Idiots” were seen as having bad judgment in public and political matters.
+
+Over time, the term “idiot” shifted away from its original connotation of
+selfishness and came to refer to individuals with overall bad
+judgment–individuals who are “stupid”.
+
+
+* TODO Design
+- State "TODO"       from              [2017-05-14 Sun 10:12]
+Designing is the act of /choosing/ and /combining/ the choices. This
+relationship of choice and combination is shared with language. The set of
+choices is the paradigm and the combination is the syntagm.
